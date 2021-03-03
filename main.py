@@ -4,11 +4,7 @@ import json
 import requests
 from keep_alive import keep_alive
 from discord.ext import commands
-import random
-import matplotlib.pyplot as plt
-import numpy as np
-from time import sleep
-import datetime
+
 from replit import db
 import re
 from discord.utils import get
